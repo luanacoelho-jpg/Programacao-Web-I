@@ -12,3 +12,4 @@ Esta é minha primeira página desenvolvida na disciplina Programacao Web
 ### Utilizacao das DevTools
 ![Inspecao do código HTML](devtools.png)
 
+
